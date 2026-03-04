@@ -27,8 +27,8 @@ Basta abrir o arquivo `index.html` no navegador, ou usar a extensão **Live Serv
 
 | Papel | Nome | GitHub |
 |---|---|---|
-| Aluno A (Dono) | _Preencher_ | _@usuario_ |
-| Aluno B (Colaborador) | _Preencher_ | _@usuario_ |
+| Aluno A (Dono) | _Mia (Maria Aparecida)_ | _mariaurbanoaraujo_ |
+| Aluno B (Colaborador) | _Brian_ | _bateman727_ |
 
 ---
 
