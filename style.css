@@ -44,7 +44,7 @@ body {
 .nav-links a {
     color: #ecf0f1;
     text-decoration: none;
-    transition: color 0.3s ease;
+    transition: color 0.4s ease;
 }
 
 .nav-links a:hover {
